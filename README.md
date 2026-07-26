@@ -44,9 +44,5 @@
 
 ---
 
-## 🚀 Cara Menjalankan
 
-1. Clone repository ini ke komputer kamu:
-```bash
-git clone https://github.com/samuelmendrofa/SamoisCARE.git
 
