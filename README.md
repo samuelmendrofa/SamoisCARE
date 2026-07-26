@@ -48,4 +48,5 @@
 
 1. Clone repository ini ke komputer kamu:
 ```bash
-git clone [[git clone https://github.com/samuelmendrofa/SamoisCARE.git](https://github.com/samuelmendrofa/SamoisCARE.git)]
+git clone https://github.com/samuelmendrofa/SamoisCARE.git
+
