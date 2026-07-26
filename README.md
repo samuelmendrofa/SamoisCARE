@@ -10,9 +10,9 @@
 
 ## 📸 Screenshots
 
-| Login Screen | Home Screen | Feature Screen |
+| Login Screen | Home Screen | Profile Screen |
 |:---:|:---:|:---:|
-| ![Login](assets/screenshots/login.png) | ![Home](assets/screenshots/home.png) | ![Feature](assets/screenshots/feature.png) |
+| ![Login](<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/1158a8e7-0149-49c7-b6b4-ca545c1a2776" />) | ![Home](<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/2cfe4da7-d6ea-48d1-ba39-3e10dd440d53" />) | ![Profile](<img width="403" height="1280" alt="image" src="https://github.com/user-attachments/assets/346cec47-b92b-485f-9110-d1c93f55cc5d" />) |
 
 > *Catatan: Pastikan kamu telah menyimpan foto screenshot aplikasi di folder `assets/screenshots/` dengan nama `login.png`, `home.png`, dan `feature.png`.*
 
@@ -48,4 +48,4 @@
 
 1. Clone repository ini ke komputer kamu:
 ```bash
-git clone [https://github.com/USERNAME_KAMU/KlinikDigital-UAS.git](https://github.com/USERNAME_KAMU/KlinikDigital-UAS.git)
+git clone [https://github.com/samuelmendrofa/SamoisCARE.git](https://github.com/samuelmendrofa/SamoisCARE.git)
