@@ -12,7 +12,7 @@
 
 | Login Screen | Home Screen | Profile Screen |
 |:---:|:---:|:---:|
-| ![Login](<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/1158a8e7-0149-49c7-b6b4-ca545c1a2776" />) | ![Home](<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/2cfe4da7-d6ea-48d1-ba39-3e10dd440d53" />) | ![Profile](<img width="403" height="1280" alt="image" src="https://github.com/user-attachments/assets/346cec47-b92b-485f-9110-d1c93f55cc5d" />) |
+| (<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/1158a8e7-0149-49c7-b6b4-ca545c1a2776" />) | (<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/2cfe4da7-d6ea-48d1-ba39-3e10dd440d53" />) | (<img width="403" height="1280" alt="image" src="https://github.com/user-attachments/assets/346cec47-b92b-485f-9110-d1c93f55cc5d" />) |
 
 > *Catatan: Pastikan kamu telah menyimpan foto screenshot aplikasi di folder `assets/screenshots/` dengan nama `login.png`, `home.png`, dan `feature.png`.*
 
