@@ -44,5 +44,6 @@
 
 ---
 
-
+## 📦 Download APK
+[Download APK](https://expo.dev/accounts/samuel091006/projects/samoiscare-app/builds/f70d75a0-69b0-4ec7-a0ba-c1d2f778c527)
 
